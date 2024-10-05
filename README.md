@@ -3,8 +3,11 @@
 </h1>
 
 <br/>
-
 <div>
+<h1> 
+    I'm a Software Engineering Student at the University of Waterloo.
+</h1>
+Full-Stack Developer • Marathoner • Competitive Programmer
  
 1. **[AlgoFlow](https://github.com/LGeoff31/AlgoFlow)**:          📊 Visualize the most popular sorting algorithms
 2. **[UwRez](https://github.com/LGeoff31/uwdorm)**:               🏠 Share and read reviews about Waterloo residences
