@@ -7,12 +7,10 @@
 </h3>
  </div>
  <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lgeoff31/lgeoff31/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
-
 Here are my latest projects
 
 1. **[AlgoFlow](https://github.com/LGeoff31/AlgoFlow)**:          📊 Visualize the most popular sorting algorithms
