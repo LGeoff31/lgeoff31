@@ -10,6 +10,8 @@
 Full-Stack Developer • Marathoner • Competitive Programmer
  </div>
 
+<div>
+    
  <h4> 
  Check out some of my projects!
  </h4>
@@ -18,6 +20,7 @@ Full-Stack Developer • Marathoner • Competitive Programmer
 3. **[Returnpal](https://github.com/LGeoff31/returnPal)**:        📦 Return packages by the door
 4. **[MetaScript](https://github.com/LGeoff31/MetaScript)**:      💻 Interpreted programming language
 5. **[Insomnia](https://github.com/LGeoff31/insomnia2)**:         🛏️ Analysis of factors affecting sleep
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
