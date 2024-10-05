@@ -5,8 +5,16 @@
 <h3> 
     I'm a Software Engineer interested in full-stack development and competitive programming.
 </h3>
-
  </div>
+ <div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+    
+  <br>
+    
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lgeoff31/lgeoff31/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 Here are my latest projects
 
@@ -16,13 +24,3 @@ Here are my latest projects
 4. **[MetaScript](https://github.com/LGeoff31/MetaScript)**:      💻 Interpreted programming language
 5. **[Insomnia](https://github.com/LGeoff31/insomnia2)**:         🛏️ Analysis of factors affecting sleep
 
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-    
-  <br>
-    
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lgeoff31/lgeoff31/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
