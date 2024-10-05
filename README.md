@@ -3,18 +3,21 @@
 </h1>
 
 <br/>
-<div align="center">
-<h1> 
+<div aligin="center">
+<h3> 
     I'm a Software Engineering Student at the University of Waterloo.
-</h1>
+</h3>
 Full-Stack Developer • Marathoner • Competitive Programmer
- 
+ </div>
+
+ <h4> 
+ Check out some of my projects!
+ </h4>
 1. **[AlgoFlow](https://github.com/LGeoff31/AlgoFlow)**:          📊 Visualize the most popular sorting algorithms
 2. **[UwRez](https://github.com/LGeoff31/uwdorm)**:               🏠 Share and read reviews about Waterloo residences
 3. **[Returnpal](https://github.com/LGeoff31/returnPal)**:        📦 Return packages by the door
 4. **[MetaScript](https://github.com/LGeoff31/MetaScript)**:      💻 Interpreted programming language
 5. **[Insomnia](https://github.com/LGeoff31/insomnia2)**:         🛏️ Analysis of factors affecting sleep
- </div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
