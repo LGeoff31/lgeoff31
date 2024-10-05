@@ -11,10 +11,6 @@ Full-Stack Developer • Marathoner • Competitive Programmer
  </div>
 
 <div>
-    
- <h4> 
- Check out some of my projects!
- </h4>
 1. **[AlgoFlow](https://github.com/LGeoff31/AlgoFlow)**:          📊 Visualize the most popular sorting algorithms
 2. **[UwRez](https://github.com/LGeoff31/uwdorm)**:               🏠 Share and read reviews about Waterloo residences
 3. **[Returnpal](https://github.com/LGeoff31/returnPal)**:        📦 Return packages by the door
