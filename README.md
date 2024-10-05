@@ -4,12 +4,13 @@
 
 <br/>
 <div aligin="center">
-<h3> 
-    I'm a Software Engineering Student at the University of Waterloo.
-</h3>
-Full-Stack Developer • Marathoner • Competitive Programmer
+<h5> 
+    I'm a Software Engineer interested in full-stack development and competitive programming. Aside from work, I enjoy running and playing volleyball.
+</h5>
+
  </div>
 
+Here are my latest projects
 
 1. **[AlgoFlow](https://github.com/LGeoff31/AlgoFlow)**:          📊 Visualize the most popular sorting algorithms
 2. **[UwRez](https://github.com/LGeoff31/uwdorm)**:               🏠 Share and read reviews about Waterloo residences
