@@ -3,7 +3,7 @@
 </h1>
 
 <br/>
-<div>
+<div class="align-center">
 <h1> 
     I'm a Software Engineering Student at the University of Waterloo.
 </h1>
