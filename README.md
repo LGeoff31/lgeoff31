@@ -3,11 +3,13 @@
 </h1>
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lgeoff31/lgeoff31/output/github-contribution-grid-snake.svg" />
-
+<hr>
 <h3> 
     I'm a Software Engineer interested in full-stack development and competitive programming.
 </h3>
+<h4>
 Here are my latest projects
+</h4>
 
 1. **[AlgoFlow](https://github.com/LGeoff31/AlgoFlow)**:          📊 Visualize the most popular sorting algorithms
 2. **[UwRez](https://github.com/LGeoff31/uwdorm)**:               🏠 Share and read reviews about Waterloo residences
