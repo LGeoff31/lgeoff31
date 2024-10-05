@@ -6,16 +6,13 @@
 
 <br/>
 
-<div align="center">
+<div>
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
+1. **[AlgoFlow](https://github.com/LGeoff31/AlgoFlow)**:          📊 Visualize the most popular sorting algorithms
+2. **[UwRez](https://github.com/LGeoff31/uwdorm)**:               🏠 Share and read reviews about Waterloo residences
+3. **[Returnpal](https://github.com/LGeoff31/returnPal)**:        📦 Return packages by the door
+4. **[MetaScript](https://github.com/LGeoff31/MetaScript)**:      💻 Interpreted programming language
+5. **[Insomnia](https://github.com/LGeoff31/insomnia2)**:         🛏️ Analysis of factors affecting sleep
  </div>
 
 <div align="center">
