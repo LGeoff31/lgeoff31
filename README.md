@@ -4,9 +4,9 @@
 
 <br/>
 <div aligin="center">
-<h5> 
-    I'm a Software Engineer interested in full-stack development and competitive programming. Aside from work, I enjoy running and playing volleyball.
-</h5>
+<h3> 
+    I'm a Software Engineer interested in full-stack development and competitive programming.
+</h3>
 
  </div>
 
