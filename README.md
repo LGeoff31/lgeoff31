@@ -11,9 +11,9 @@ Here are my latest projects
 
 1. **[Returnpal](https://github.com/LGeoff31/returnPal)**:        📦 Return packages by the door
 2. **[UwRez](https://github.com/LGeoff31/uwdorm)**:               🏠 Share and read reviews about Waterloo residences
+3. **[DataMac](https://github.com/LGeoff31/DataMac)**, ➕ Arithmetic game to compete and progress
 4. **[AlgoFlow](https://github.com/LGeoff31/AlgoFlow)**:          📊 Visualize the most popular sorting algorithms
 5. **[Neural Networks](https://github.com/LGeoff31/neural-network)**:      🤖 Analyze risk for cardiovasular disease
 4. **[MetaScript](https://github.com/LGeoff31/MetaScript)**:      💻 Interpreted programming language
 
-Currently working on **[DataMac](https://github.com/LGeoff31/DataMac)**, ➕ Arithmetic game to compete and progress
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lgeoff31/lgeoff31/output/github-contribution-grid-snake.svg" />
