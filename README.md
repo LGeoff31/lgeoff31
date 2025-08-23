@@ -17,6 +17,6 @@ Here are my latest projects
 5. **[Neural Networks](https://github.com/LGeoff31/neural-network)**:      🤖 Analyze risk for cardiovasular disease
 6. **[MetaScript](https://github.com/LGeoff31/MetaScript)**:      💻 Interpreted programming language
 
-Currently working on https://github.com/LGeoff31/Sync-AI
+Currently working on [Sync AI](https://github.com/LGeoff31/Sync-AI)
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lgeoff31/lgeoff31/output/github-contribution-grid-snake.svg" />
