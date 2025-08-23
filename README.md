@@ -15,6 +15,8 @@ Here are my latest projects
 3. **[Returnpal](https://github.com/LGeoff31/returnPal)**:        📦 Return packages by the door
 4. **[VisuGraph](https://github.com/LGeoff31/Graphs)**:          📊 Visualize the most popular graph algorithms
 5. **[Neural Networks](https://github.com/LGeoff31/neural-network)**:      🤖 Analyze risk for cardiovasular disease
-4. **[MetaScript](https://github.com/LGeoff31/MetaScript)**:      💻 Interpreted programming language
+6. **[MetaScript](https://github.com/LGeoff31/MetaScript)**:      💻 Interpreted programming language
+
+Currently working on https://github.com/LGeoff31/Sync-AI
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lgeoff31/lgeoff31/output/github-contribution-grid-snake.svg" />
