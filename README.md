@@ -10,7 +10,7 @@ Here are my latest projects
 </h4>
 
 
-1. **[Sync AI](https://github.com/LGeoff31/Sync-AI)**:               🗓️ Find a time, pick a place, book it for everyone (in progress...)
+1. **[Sync AI](https://github.com/LGeoff31/Sync-AI)**:               🗓️ Find a time, pick a place, book it for everyone
 2. **[Dorm AI](https://github.com/LGeoff31/uwdorm)**:               🏠 Share and read reviews about Waterloo residences
 3. **[Returnpal](https://github.com/LGeoff31/returnPal)**:        📦 Return packages by the door
 4. **[DataMac](https://github.com/LGeoff31/DataMac)**, ➕ Arithmetic game to compete and progress
