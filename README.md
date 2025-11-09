@@ -10,7 +10,7 @@ Here are my latest projects
 </h4>
 
 
-1. **[Bisect](https://github.com/LGeoff31/Bisect)**:               🔎 Find the breaking commit
+1. **[Bisect](https://github.com/LGeoff31/Bisect)**:               🔎 Find the breaking commit...
 2. **[Sync AI](https://github.com/LGeoff31/Sync-AI)**:               🗓️ Find a time, pick a place, book it for everyone
 3. **[Dormy](https://github.com/LGeoff31/uwdorm)**:               🏠 Share and read reviews about Waterloo residences
 4. **[Returnpal](https://github.com/LGeoff31/returnPal)**:        📦 Return packages by the door
