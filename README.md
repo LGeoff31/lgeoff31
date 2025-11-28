@@ -3,7 +3,7 @@
 </h1>
 
 <h3> 
-    I'm a Software Engineer interested in full-stack development, competitive programming, and AI.
+    I'm a Software Engineer interested in algorthimic trading, competitive programming, and AI.
 </h3>
 <h4>
 Here are my latest projects
