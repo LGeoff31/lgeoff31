@@ -3,7 +3,7 @@
 </h1>
 
 <h3> 
-    I'm a Software Engineer interested in algorthimic trading, competitive programming, and AI.
+    I'm a Software Engineer interested in algorithms, distributed systems, performance, and quantitative finance.
 </h3>
 <h4>
 Here are my latest projects
